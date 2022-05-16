@@ -1,4 +1,5 @@
 # TestBot
+Does automated testing on a website
 
 ## Setup Instructions
 
